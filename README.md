@@ -1,0 +1,1 @@
+App react-native con integrazione Realm DB e Fotocamera, realizzata grazie alla guida di Paolo dell'Aguzzo (https://www.paolodellaguzzo.com/blog/2018/01/02/imparare-react-native/)
